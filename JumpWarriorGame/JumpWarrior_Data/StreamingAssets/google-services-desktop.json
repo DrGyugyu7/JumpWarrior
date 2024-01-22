@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421642724530",
+    "firebase_url": "https://loginjumpwarrior-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginjumpwarrior",
+    "storage_bucket": "loginjumpwarrior.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421642724530:android:56c71cb9dec64d992515ab",
+        "android_client_info": {
+          "package_name": "com.SongKyuSang.JumpWarrior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421642724530-f4gg0luqb0a7po4htctte132t403a30f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukvynWuJ4RWQ1wNUz2nbB2GES2ZPpLqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421642724530-f4gg0luqb0a7po4htctte132t403a30f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
